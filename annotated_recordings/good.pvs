@@ -1,0 +1,492 @@
+[General]
+decode_signals=1
+meta_objs=47
+views=1
+
+[1]
+color=4287582722
+conv_options=0
+conversion_type=0
+enabled=false
+name=1
+
+[2]
+color=4291559424
+conv_options=0
+conversion_type=0
+enabled=false
+name=2
+
+[3]
+color=4294277376
+conv_options=0
+conversion_type=0
+enabled=false
+name=3
+
+[4]
+color=4293776384
+conv_options=0
+conversion_type=0
+enabled=false
+name=4
+
+[5]
+color=4285780502
+conv_options=0
+conversion_type=0
+enabled=false
+name=5
+
+[6]
+color=4281623972
+conv_options=0
+conversion_type=0
+enabled=false
+name=6
+
+[7]
+color=4285878395
+conv_options=0
+conversion_type=0
+enabled=false
+name=7
+
+[D0]
+color=4281623972
+conv_options=0
+conversion_type=0
+enabled=true
+name=InfoLithium
+
+[D1]
+color=4287582722
+conv_options=0
+conversion_type=0
+enabled=false
+name=D1
+
+[D2]
+color=4291559424
+conv_options=0
+conversion_type=0
+enabled=false
+name=D2
+
+[D3]
+color=4294277376
+conv_options=0
+conversion_type=0
+enabled=false
+name=D3
+
+[D4]
+color=4293776384
+conv_options=0
+conversion_type=0
+enabled=false
+name=D4
+
+[D5]
+color=4285780502
+conv_options=0
+conversion_type=0
+enabled=false
+name=D5
+
+[D6]
+color=4281623972
+conv_options=0
+conversion_type=0
+enabled=false
+name=D6
+
+[D7]
+color=4285878395
+conv_options=0
+conversion_type=0
+enabled=false
+name=D7
+
+[InfoLithium]
+color=4279638298
+conv_options=0
+conversion_type=0
+enabled=true
+name=InfoLithium
+
+[decode_signal0]
+channel0\assigned_signal_name=InfoLithium
+channel0\initial_pin_state=2
+channel0\name=RX
+channel1\initial_pin_state=2
+channel1\name=TX
+channels=2
+color=4281510450
+conv_options=0
+conversion_type=0
+decoder0\ann_class0\visible=true
+decoder0\ann_class1\visible=true
+decoder0\ann_class10\visible=true
+decoder0\ann_class11\visible=true
+decoder0\ann_class12\visible=true
+decoder0\ann_class13\visible=true
+decoder0\ann_class14\visible=true
+decoder0\ann_class15\visible=true
+decoder0\ann_class16\visible=true
+decoder0\ann_class17\visible=true
+decoder0\ann_class2\visible=true
+decoder0\ann_class3\visible=true
+decoder0\ann_class4\visible=true
+decoder0\ann_class5\visible=true
+decoder0\ann_class6\visible=true
+decoder0\ann_class7\visible=true
+decoder0\ann_class8\visible=true
+decoder0\ann_class9\visible=true
+decoder0\id=uart
+decoder0\option0\name=baudrate
+decoder0\option0\type=x
+decoder0\option0\value=@ByteArray(\xf8\a\0\0\0\0\0\0)
+decoder0\option1\name=bit_order
+decoder0\option1\type=s
+decoder0\option1\value=@ByteArray(lsb-first\0)
+decoder0\option2\name=data_bits
+decoder0\option2\type=x
+decoder0\option2\value=@ByteArray(\a\0\0\0\0\0\0\0)
+decoder0\option3\name=format
+decoder0\option3\type=s
+decoder0\option3\value=@ByteArray(dec\0)
+decoder0\option4\name=invert_rx
+decoder0\option4\type=s
+decoder0\option4\value=@ByteArray(no\0)
+decoder0\option5\name=parity
+decoder0\option5\type=s
+decoder0\option5\value=@ByteArray(none\0)
+decoder0\option6\name=stop_bits
+decoder0\option6\type=d
+decoder0\option6\value=@ByteArray(\0\0\0\0\0\0\xf0?)
+decoder0\options=7
+decoder0\row0\visible=true
+decoder0\row1\visible=true
+decoder0\row2\visible=true
+decoder0\row3\visible=true
+decoder0\row4\visible=true
+decoder0\row5\visible=true
+decoder0\row6\visible=true
+decoder0\row7\visible=true
+decoder0\row8\visible=true
+decoder0\row9\visible=true
+decoder0\visible=true
+decoders=1
+enabled=true
+name=UART
+
+[meta_obj0]
+assoc_view=0
+text=M
+time=22 serialization::archive 17 0 0 0 0 36275439 60797791 10973716 47624124 9196312 75863993 -8 0 0 6
+type=time_marker
+
+[meta_obj1]
+assoc_view=0
+end_time=22 serialization::archive 17 0 0 0 0 1 1040149 99999999 52450480 12293409 55615043 0 0 0 6
+start_time=22 serialization::archive 17 0 0 0 0 1 991849 99999999 41252326 60735491 66321753 0 0 0 6
+text=start
+time=22 serialization::archive 17 0 0 0 0 67076447 13255040 65917448 14040468 28000342 19676617 -8 0 0 6
+type=time_marker
+
+[meta_obj10]
+assoc_view=0
+text=grenze
+time=22 serialization::archive 17 0 0 0 0 1 58319529 59409085 60935141 46137740 67269190 0 0 0 6
+type=time_marker
+
+[meta_obj11]
+assoc_view=0
+text=minuten?
+time=22 serialization::archive 17 0 0 0 0 1 58450049 53856920 86860126 6320664 40897547 0 0 0 6
+type=time_marker
+
+[meta_obj12]
+assoc_view=0
+text=start
+time=22 serialization::archive 17 0 0 0 0 1 62651195 16563463 10350494 90612165 97804871 0 0 0 6
+type=time_marker
+
+[meta_obj13]
+assoc_view=0
+text=1h 21min?
+time=22 serialization::archive 17 0 0 0 0 1 90171237 67803983 534626 41264519 49507273 0 0 0 6
+type=time_marker
+
+[meta_obj14]
+assoc_view=0
+text=O
+time=22 serialization::archive 17 0 0 0 0 1 94669768 76450212 26717080 65483875 93725395 0 0 0 6
+type=time_marker
+
+[meta_obj15]
+assoc_view=0
+text=P
+time=22 serialization::archive 17 0 0 0 0 2 26662023 54778391 69636691 66573780 96583919 0 0 0 6
+type=time_marker
+
+[meta_obj16]
+assoc_view=0
+text=Q
+time=22 serialization::archive 17 0 0 0 0 2 58672171 82942417 50113020 54756890 36674165 0 0 0 6
+type=time_marker
+
+[meta_obj17]
+assoc_view=0
+text=R
+time=22 serialization::archive 17 0 0 0 0 2 90675200 0 2444267 1101474 46393966 0 0 0 6
+type=time_marker
+
+[meta_obj18]
+assoc_view=0
+text=S
+time=22 serialization::archive 17 0 0 0 0 3 22687999 99999999 70583530 73953185 23049353 0 0 0 6
+type=time_marker
+
+[meta_obj19]
+assoc_view=0
+text=T
+time=22 serialization::archive 17 0 0 0 0 3 54715299 99999997 78424353 28057035 80379485 0 0 0 6
+type=time_marker
+
+[meta_obj2]
+assoc_view=0
+text=start
+time=22 serialization::archive 17 0 0 0 0 99493878 30675171 42754792 2272401 39012294 69061296 -8 0 0 6
+type=time_marker
+
+[meta_obj20]
+assoc_view=0
+text=U
+time=22 serialization::archive 17 0 0 0 0 3 86688000 0 94928509 49754938 48323821 0 0 0 6
+type=time_marker
+
+[meta_obj21]
+assoc_view=0
+text=V
+time=22 serialization::archive 17 0 0 0 0 4 18674172 11937286 25535198 16851677 59293722 0 0 0 6
+type=time_marker
+
+[meta_obj22]
+assoc_view=0
+text=W
+time=22 serialization::archive 17 0 0 0 0 4 50617137 61251833 40261486 43721699 20517293 0 0 0 6
+type=time_marker
+
+[meta_obj23]
+assoc_view=0
+text=X
+time=22 serialization::archive 17 0 0 0 0 4 82699010 28150198 48125752 29903940 7811243 0 0 0 6
+type=time_marker
+
+[meta_obj24]
+assoc_view=0
+text=Y
+time=22 serialization::archive 17 0 0 0 0 5 14668930 57124701 97002298 3278444 78545473 0 0 0 6
+type=time_marker
+
+[meta_obj25]
+assoc_view=0
+text=Z
+time=22 serialization::archive 17 0 0 0 0 5 46638161 67585173 92524340 14975078 3695387 0 0 0 6
+type=time_marker
+
+[meta_obj26]
+assoc_view=0
+text=A
+time=22 serialization::archive 17 0 0 0 0 5 78719270 50157042 36290467 92040041 24815652 0 0 0 6
+type=time_marker
+
+[meta_obj27]
+assoc_view=0
+text=G
+time=22 serialization::archive 17 0 0 0 0 6 10674581 61846999 95256685 53612676 45683119 0 0 0 6
+type=time_marker
+
+[meta_obj28]
+assoc_view=0
+text=B
+time=22 serialization::archive 17 0 0 0 0 6 42718840 45988935 56560477 47393776 17156985 0 0 0 6
+type=time_marker
+
+[meta_obj29]
+assoc_view=0
+text=C
+time=22 serialization::archive 17 0 0 0 0 6 74694784 73826841 82614852 49647334 25129963 0 0 0 6
+type=time_marker
+
+[meta_obj3]
+assoc_view=0
+text=look here
+time=22 serialization::archive 17 0 0 0 0 1 22409968 71899557 33992202 30022960 14439721 0 0 0 6
+type=time_marker
+
+[meta_obj30]
+assoc_view=0
+text=D
+time=22 serialization::archive 17 0 0 0 0 7 6701563 67033346 80174232 406833 24023480 0 0 0 6
+type=time_marker
+
+[meta_obj31]
+assoc_view=0
+text=E
+time=22 serialization::archive 17 0 0 0 0 7 38741729 79364126 65562238 25761039 16010886 0 0 0 6
+type=time_marker
+
+[meta_obj32]
+assoc_view=0
+text=F
+time=22 serialization::archive 17 0 0 0 0 7 70735371 66574736 78630005 91086107 52805802 0 0 0 6
+type=time_marker
+
+[meta_obj33]
+assoc_view=0
+text=H
+time=22 serialization::archive 17 0 0 0 0 8 4648180 25713683 85679363 54054118 8268234 0 0 0 6
+type=time_marker
+
+[meta_obj34]
+assoc_view=0
+text=I
+time=22 serialization::archive 17 0 0 0 0 8 36681505 57979229 58181485 17221309 27545697 0 0 0 6
+type=time_marker
+
+[meta_obj35]
+assoc_view=0
+text=J
+time=22 serialization::archive 17 0 0 0 0 8 68792019 63816499 52711296 97678154 59808077 0 0 0 6
+type=time_marker
+
+[meta_obj36]
+assoc_view=0
+text=K
+time=22 serialization::archive 17 0 0 0 0 9 681994 45163128 83065762 94737644 75723466 0 0 0 6
+type=time_marker
+
+[meta_obj37]
+assoc_view=0
+text=L
+time=22 serialization::archive 17 0 0 0 0 9 32748400 66102270 64760505 58515019 4716447 0 0 0 6
+type=time_marker
+
+[meta_obj38]
+assoc_view=0
+text=M
+time=22 serialization::archive 17 0 0 0 0 9 64726591 17245156 6907322 8152005 59617680 0 0 0 6
+type=time_marker
+
+[meta_obj39]
+assoc_view=0
+text=O
+time=22 serialization::archive 17 0 0 0 0 9 96576133 79101834 65208364 9734285 75070517 0 0 0 6
+type=time_marker
+
+[meta_obj4]
+assoc_view=0
+text=Camerbit?
+time=22 serialization::archive 17 0 0 0 0 1 26207555 56233835 99481808 41656542 59501829 0 0 0 6
+type=time_marker
+
+[meta_obj40]
+assoc_view=0
+text=P
+time=22 serialization::archive 17 0 0 0 0 10 28664593 92490040 39442853 51069949 88145246 0 0 0 6
+type=time_marker
+
+[meta_obj41]
+assoc_view=0
+text=Q
+time=22 serialization::archive 17 0 0 0 0 10 60686892 28531054 36058102 59730744 48974739 0 0 0 6
+type=time_marker
+
+[meta_obj42]
+assoc_view=0
+text=S
+time=22 serialization::archive 17 0 0 0 0 10 92613623 63959457 41865585 83943614 19404841 0 0 0 6
+type=time_marker
+
+[meta_obj43]
+assoc_view=0
+end_time=22 serialization::archive 17 0 0 0 0 1 90576699 99999999 88801846 48442082 10706710 0 0 0 6
+start_time=22 serialization::archive 17 0 0 0 0 1 90333148 49524082 44762363 60081674 2635254 0 0 0 6
+text=T
+time=22 serialization::archive 17 0 0 0 0 11 24481544 52857023 40937727 77987914 56452927 0 0 0 6
+type=time_marker
+
+[meta_obj44]
+assoc_view=0
+text=U
+time=22 serialization::archive 17 0 0 0 0 11 56371519 34203652 85169981 55828850 39921273 0 0 0 6
+type=time_marker
+
+[meta_obj45]
+assoc_view=0
+text=A
+time=22 serialization::archive 17 0 0 0 0 12 11340618 75233887 88699854 63950105 58340461 0 0 0 6
+type=time_marker
+
+[meta_obj46]
+assoc_view=0
+end_time=22 serialization::archive 17 0 0 0 0 1 90576699 99999999 88801846 48442082 10706710 0 0 0 6
+start_time=22 serialization::archive 17 0 0 0 0 1 90333148 49524082 44762363 60081674 2635254 0 0 0 6
+type=selection
+
+[meta_obj5]
+assoc_view=0
+text=N
+time=22 serialization::archive 17 0 0 0 0 1 26238971 62951078 6503550 42864160 79369229 0 0 0 6
+type=time_marker
+
+[meta_obj6]
+assoc_view=0
+text=Battery answer?
+time=22 serialization::archive 17 0 0 0 0 1 26288599 99999999 53047336 2097257 97176360 0 0 0 6
+type=time_marker
+
+[meta_obj7]
+assoc_view=0
+text=start
+time=22 serialization::archive 17 0 0 0 0 1 30562576 99747512 8066898 83458651 64550532 0 0 0 6
+type=time_marker
+
+[meta_obj8]
+assoc_view=0
+text=1h 27min?
+time=22 serialization::archive 17 0 0 0 0 1 58216389 85180636 82950552 8947341 71844500 0 0 0 6
+type=time_marker
+
+[meta_obj9]
+assoc_view=0
+text=stunden
+time=22 serialization::archive 17 0 0 0 0 1 58267762 18995176 26766714 14339230 5983019 0 0 0 6
+type=time_marker
+
+[view0]
+1\trace_height=26
+2\trace_height=26
+3\trace_height=26
+4\trace_height=26
+5\trace_height=26
+6\trace_height=26
+7\trace_height=26
+D0\trace_height=26
+D1\trace_height=26
+D2\trace_height=26
+D3\trace_height=26
+D4\trace_height=26
+D5\trace_height=26
+D6\trace_height=26
+D7\trace_height=26
+InfoLithium\trace_height=26
+offset=22 serialization::archive 17 0 0 0 0 2 29805299 5551483 17361773 14581298 64812121 0 0 0 6
+scale=5.50717065309503e-06
+segment_display_mode=3
+splitter_state=@ByteArray(\0\0\0\xff\0\0\0\x1\0\0\0\x2\0\0\0m\0\0\x2\xa2\x1\0\0\0\x1\x1\0\0\0\x1\0)
+v_offset=-108
+zero_offset=22 serialization::archive 17 0 0 0 0 0 0 0 0 0 0 0 0 0 6
