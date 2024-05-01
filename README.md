@@ -25,6 +25,12 @@ manner to the camera
 
 ![1wire_frame](1wire_frame.png)
 
+Below is the annotated sequence of the 1-wire communication. The first
+channel only shows the responses of the battery controller, the 2nd channel
+display the 1wire that combines camera requests and the battery responses
+
+![init_sequence](pulseview_screenshot.png)
+
 On my battery, an atmega 48pa, sends his synced respons over
 Pin 25. An unknown SOP23 transistor marked with Q1 on the silk screen,
 takes this digital signal and uses it to pull down the 1-wire line,
