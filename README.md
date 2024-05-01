@@ -23,7 +23,7 @@ manner to the camera
 
 | COMMAND1 | COMMAND2 | RESP1 | RESP2 |
 
-!1wire_frame](1wire_frame.png)
+![1wire_frame](1wire_frame.png)
 
 
 
