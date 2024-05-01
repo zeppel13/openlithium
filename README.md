@@ -25,6 +25,13 @@ manner to the camera
 
 ![1wire_frame](1wire_frame.png)
 
+On my battery, an atmega 48pa, sends his synced respons over
+Pin 25. An unknown SOP23 transistor marked with Q1 on the silk screen,
+takes this digital signal and uses it to pull down the 1-wire line,
+hence inverting the logic levels. The 1-wire line is conected over a
+?buffered? input to PIN26 of the ATMEGA, where the mcu may read the signals.
+
+
 
 
 This could be us:
