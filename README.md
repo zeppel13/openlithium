@@ -1,10 +1,6 @@
 # openlithium
 Reverse engineering Sony's obsolete InfoLithium protocol for a 23 year old Camcorder
 
-This could be us:
-![this_could_be_us.png](this_could_be_us.png)
-
-Soon I'll have an idea how this works...
 
 The protocol describes the communcation on a propietary 1-wire
 interface Between camera and Battery is a 1-wire line. 3V HIGH is the
@@ -27,4 +23,11 @@ manner to the camera
 
 | COMMAND1 | COMMAND2 | RESP1 | RESP2 |
 
+!1wire_frame](1wire_frame.png)
 
+
+
+This could be us:
+![this_could_be_us.png](this_could_be_us.png)
+
+Soon I'll have an idea how this works...
