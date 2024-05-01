@@ -31,6 +31,8 @@ takes this digital signal and uses it to pull down the 1-wire line,
 hence inverting the logic levels. The 1-wire line is conected over a
 ?buffered? input to PIN26 of the ATMEGA, where the mcu may read the signals.
 
+There is an very old discussion in this dpreview thread from 2001
+![https://archive.ph/ZwAwO](https://archive.ph/ZwAwO)
 
 
 
