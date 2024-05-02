@@ -41,6 +41,9 @@ There is a very old discussion in this dpreview thread from 2001
 ![https://archive.ph/ZwAwO](https://archive.ph/ZwAwO)
 ![original link](https://www.dpreview.com/forums/thread/56451#forum-post-765627)
 
+Another Post with comments from 2001:
+http://www.bealecorner.com/trv900/battery/lithium.html
+https://archive.ph/sEuQF
 
 This could be us:
 ![this_could_be_us.png](this_could_be_us.png)
