@@ -1,4 +1,4 @@
-# openlithium
+# openlithium (work in progress)
 Reverse engineering Sony's obsolete InfoLithium protocol for a 23 year old Camcorder
 
 
