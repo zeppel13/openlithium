@@ -1,6 +1,7 @@
 # openlithium (work in progress)
 # it works now (update soon)
 ![pulsview_decoder][decoder.png]
+
 Reverse engineering Sony's obsolete InfoLithium protocol for a 23 year old Camcorder
 
 
